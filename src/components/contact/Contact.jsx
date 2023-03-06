@@ -27,21 +27,21 @@ const Contact = () => {
             <MdOutlineMailOutline className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>suves58@gmail.com</h5>
-            <a href="mailto:suves58@gmail.com" target="_blank">Send a message</a>
+            <a href="mailto:suves58@gmail.com" target="_blank" rel="noreferrer">Send a message</a>
           </article>
 
           <article className='contact__option'>
             <RiMessengerLine className='contact__option-icon'/>
             <h4>Massenger</h4>
             <h5>Shaikh Uves</h5>
-            <a href="https://m.me/uves.shaikh.148" target="_blank">Send a message</a>
+            <a href="https://m.me/uves.shaikh.148" target="_blank" rel="noreferrer">Send a message</a>
           </article>
 
           <article className='contact__option'>
             <BsWhatsapp className='contact__option-icon'/>
             <h4>Whatsapp</h4>
             <h5>+91 79906 65076</h5>
-            <a href="https://api.whatsapp.com/send?phone+917990665076" target="_blank">Send a message</a>
+            <a href="https://api.whatsapp.com/send?phone+917990665076" target="_blank" rel="noreferrer">Send a message</a>
           </article>
         </div>
         <form ref={form} onSubmit={sendEmail}>
