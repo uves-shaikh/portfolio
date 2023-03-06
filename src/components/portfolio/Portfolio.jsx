@@ -9,13 +9,13 @@ const Portfolio = () => {
       <h2>Portfolio</h2>
 
       <div className="container portfolio__container">
-        <article className='portfolio__item'>
+      <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>My Portfolio</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">Portfolio</a>
+            <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">GitHub</a>
             <a href="#" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
         </article>
@@ -24,9 +24,9 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>My Portfolio</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">Portfolio</a>
+            <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">GitHub</a>
             <a href="#" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
         </article>
@@ -35,9 +35,9 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>My Portfolio</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">Portfolio</a>
+            <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">GitHub</a>
             <a href="#" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
         </article>
@@ -46,9 +46,9 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>My Portfolio</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">Portfolio</a>
+            <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">GitHub</a>
             <a href="#" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
         </article>
@@ -57,9 +57,9 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>My Portfolio</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">Portfolio</a>
+            <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">GitHub</a>
             <a href="#" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
         </article>
@@ -68,7 +68,7 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is portfolio item title</h3>
+          <h3>My Portfolio</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">GitHub</a>
             <a href="#" className='btn btn-primary' target="_blank">Live Demo</a>
