@@ -1,6 +1,7 @@
 import React from 'react'
 import './Portfolio.css'
 import IMG1 from '../../assets/portfolio1.jpg'
+import IMG2 from '../../assets/shoes.png'
 
 const Portfolio = () => {
   return (
@@ -22,16 +23,16 @@ const Portfolio = () => {
 
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={IMG1} alt="" />
+            <img src={IMG2} alt="" />
           </div>
-          <h3>My Portfolio</h3>
+          <h3>E-Commerse website for shoes</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">GitHub</a>
+            <a href="https://github.com/uves-shaikh/Footique" className='btn' target="_blank">GitHub</a>
             <a href="#" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
         </article>
 
-        <article className='portfolio__item'>
+        {/* <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
@@ -40,9 +41,9 @@ const Portfolio = () => {
             <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">GitHub</a>
             <a href="#" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
-        </article>
+        </article> */}
 
-        <article className='portfolio__item'>
+        {/* <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
@@ -51,9 +52,9 @@ const Portfolio = () => {
             <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">GitHub</a>
             <a href="#" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
-        </article>
+        </article> */}
 
-        <article className='portfolio__item'>
+        {/* <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
@@ -62,9 +63,9 @@ const Portfolio = () => {
             <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">GitHub</a>
             <a href="#" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
-        </article>
+        </article> */}
 
-        <article className='portfolio__item'>
+        {/* <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
@@ -73,7 +74,7 @@ const Portfolio = () => {
             <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">GitHub</a>
             <a href="#" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
-        </article>
+        </article> */}
       </div>
     </section>
   )
