@@ -28,7 +28,7 @@ const Portfolio = () => {
           <h3>E-Commerse website for shoes</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/uves-shaikh/Footique" className='btn' target="_blank">GitHub</a>
-            <a href="http://footique-frontend.vercel.app" className='btn btn-primary' target="_blank" >Live Demo</a>
+            <a href="http://footique-frontend.vercel.app" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
         </article>
 
@@ -41,9 +41,9 @@ const Portfolio = () => {
             <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">GitHub</a>
             <a href="#" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
-        </article> */}
+        </article>
 
-        {/* <article className='portfolio__item'>
+        <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
@@ -52,9 +52,9 @@ const Portfolio = () => {
             <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">GitHub</a>
             <a href="#" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
-        </article> */}
+        </article>
 
-        {/* <article className='portfolio__item'>
+        <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
@@ -63,9 +63,9 @@ const Portfolio = () => {
             <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">GitHub</a>
             <a href="#" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
-        </article> */}
+        </article>
 
-        {/* <article className='portfolio__item'>
+        <article className='portfolio__item'>
           <div className="portfolio__item-image">
             <img src={IMG1} alt="" />
           </div>
