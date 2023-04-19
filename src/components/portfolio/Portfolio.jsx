@@ -28,7 +28,7 @@ const Portfolio = () => {
           <h3>E-Commerse website for shoes</h3>
           <div className="portfolio__item-cta">
             <a href="https://github.com/uves-shaikh/Footique" className='btn' target="_blank">GitHub</a>
-            <a href="http://footique-frontend.vercel.app" className='btn btn-primary' target="_blank">Live Demo</a>
+            <a href="http://footique-frontend.vercel.app" className='btn btn-primary' target="_blank" >Live Demo</a>
           </div>
         </article>
 
