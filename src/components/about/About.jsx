@@ -35,7 +35,15 @@ const About = () => {
             <article className='about__card'>
               <BsFolderPlus className='about__icon'/>
               <h5>Projects</h5>
-              <small>Working on it...</small>
+              {/* <small>Portfolio</small>
+              <br />
+              <small>E-commerse website</small> */}
+              <small>
+              <ul>
+                <li>Portfolio</li>
+                <li>E-commerse website</li>
+              </ul>
+              </small>
             </article>
           </div>
 
