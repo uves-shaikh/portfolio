@@ -23,25 +23,23 @@ const About = () => {
             <article className='about__card'>
               <BsAward className='about__icon'/>
               <h5>Experience</h5>
-              <small>Fresher</small>
+              <small>1 Month</small>
             </article>
 
             <article className='about__card'>
               <FiUsers className='about__icon'/>
               <h5>Clients</h5>
-              <small>Ready to fill this space</small>
+              <small>Being ready to fill this space</small>
             </article>
 
             <article className='about__card'>
               <BsFolderPlus className='about__icon'/>
               <h5>Projects</h5>
-              {/* <small>Portfolio</small>
-              <br />
-              <small>E-commerse website</small> */}
               <small>
               <ul>
-                <li>Portfolio</li>
                 <li>E-commerse website</li>
+                <li>food website</li>
+                <li>Movie website</li>
               </ul>
               </small>
             </article>
