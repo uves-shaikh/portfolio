@@ -6,6 +6,7 @@ import IMG3 from '../../assets/dentist.png'
 import IMG4 from '../../assets/mealmates.png'
 import IMG5 from '../../assets/tasteez.png'
 import IMG6 from '../../assets/cinesphere.png'
+import IMG7 from '../../assets/blog.png'
 
 
 const Portfolio = () => {
@@ -81,16 +82,16 @@ const Portfolio = () => {
           </div>
         </article>
 
-        {/* <article className='portfolio__item'>
+        <article className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={IMG1} alt="" />
+            <img src={IMG7} alt="" />
           </div>
           <h3>My Portfolio</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/uves-shaikh/portfolio" className='btn' target="_blank">GitHub</a>
-            <a href="#" className='btn btn-primary' target="_blank">Live Demo</a>
+            <a href="https://github.com/uves-shaikh/LifeCanvas_frontend" className='btn' target="_blank">GitHub</a>
+            <a href="https://github.com/uves-shaikh/LifeCanvas_frontend/blob/main/DOCUMENTATION.md" className='btn btn-primary' target="_blank">Live Demo</a>
           </div>
-        </article> */}
+        </article>
       </div>
     </section>
   )

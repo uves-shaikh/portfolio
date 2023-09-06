@@ -40,6 +40,7 @@ const About = () => {
                 <li>E-commerse website</li>
                 <li>food website</li>
                 <li>Movie website</li>
+                <li>Blog website</li>
               </ul>
               </small>
             </article>
